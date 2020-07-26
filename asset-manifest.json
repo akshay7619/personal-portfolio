@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/akshay7619/personal-portfolio.git/static/css/main.2f735ac1.chunk.css",
+    "main.js": "/akshay7619/personal-portfolio.git/static/js/main.9fd936d9.chunk.js",
+    "main.js.map": "/akshay7619/personal-portfolio.git/static/js/main.9fd936d9.chunk.js.map",
+    "runtime-main.js": "/akshay7619/personal-portfolio.git/static/js/runtime-main.c5826170.js",
+    "runtime-main.js.map": "/akshay7619/personal-portfolio.git/static/js/runtime-main.c5826170.js.map",
+    "static/css/2.242f24fe.chunk.css": "/akshay7619/personal-portfolio.git/static/css/2.242f24fe.chunk.css",
+    "static/js/2.64db9bb7.chunk.js": "/akshay7619/personal-portfolio.git/static/js/2.64db9bb7.chunk.js",
+    "static/js/2.64db9bb7.chunk.js.map": "/akshay7619/personal-portfolio.git/static/js/2.64db9bb7.chunk.js.map",
+    "index.html": "/akshay7619/personal-portfolio.git/index.html",
+    "precache-manifest.1ea7fe72010dbdc2c89da59f52eb2019.js": "/akshay7619/personal-portfolio.git/precache-manifest.1ea7fe72010dbdc2c89da59f52eb2019.js",
+    "service-worker.js": "/akshay7619/personal-portfolio.git/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/akshay7619/personal-portfolio.git/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.2f735ac1.chunk.css.map": "/akshay7619/personal-portfolio.git/static/css/main.2f735ac1.chunk.css.map",
+    "static/js/2.64db9bb7.chunk.js.LICENSE": "/akshay7619/personal-portfolio.git/static/js/2.64db9bb7.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/akshay7619/personal-portfolio.git/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/akshay7619/personal-portfolio.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/akshay7619/personal-portfolio.git/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/akshay7619/personal-portfolio.git/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/akshay7619/personal-portfolio.git/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/akshay7619/personal-portfolio.git/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/akshay7619/personal-portfolio.git/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/akshay7619/personal-portfolio.git/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/akshay7619/personal-portfolio.git/static/media/ionicons.621bd386.svg",
+    "static/media/myImage.png": "/akshay7619/personal-portfolio.git/static/media/myImage.97c2d9a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5826170.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.64db9bb7.chunk.js",
+    "static/css/main.2f735ac1.chunk.css",
+    "static/js/main.9fd936d9.chunk.js"
+  ]
+}
